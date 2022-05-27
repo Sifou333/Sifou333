@@ -12,7 +12,7 @@
 
 ```python
 #!/usr/bin/python
-class TWISTX7:
+class Sifou:
     def __init__(self):
         self.name = "Sifou Programer"
         self.role = "Javascript Dev"
