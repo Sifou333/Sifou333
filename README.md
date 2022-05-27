@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="logo.gif" height="175px"/></a>
 
 #
 <p align=center>
@@ -20,8 +19,7 @@ class Sifou:
         self.language_spoken = ["fr_FR", "en_US", "ar_AR",]
     def say_hi(self):
         print("Hope you find some of my work interesting.")
-me = TWISTX7()
-me.say_hi()
+me = TWISTX7()me.say_hi()
 ```
 
 
